@@ -2,4 +2,4 @@ Esto es una prueba de modificación de fichero - RS
 
 Prueba modificar fichero para ver el cambio en una rama nueva
 
-Prueba de edicion para merge_1
+Prueba de edicion para merge_1 y merge_2
