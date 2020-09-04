@@ -5,5 +5,3 @@ Prueba modificar fichero para ver el cambio en una rama nueva
 Prueba de edicion para merge_1 y merge_2
 
 Esto es una prueba de edicion para amend
-
-P
